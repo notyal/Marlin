@@ -139,3 +139,9 @@ CMakeListsPrivate.txt
 
 #CLion
 cmake-build-*
+
+# VS Code
+.vscode/
+.pioenvs
+.piolibdeps
+.vscode/c_cpp_properties.json
